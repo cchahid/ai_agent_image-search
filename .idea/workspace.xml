@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de80c710-ccdb-4ee8-b446-7b8a128370dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ai_agent_image-search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de80c710-ccdb-4ee8-b446-7b8a128370dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759330306556</updated>
       <workItem from="1759330307639" duration="2694000" />
-      <workItem from="1760700958855" duration="2589000" />
+      <workItem from="1760700958855" duration="3087000" />
     </task>
     <servers />
   </component>
